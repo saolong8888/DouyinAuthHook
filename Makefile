@@ -1,5 +1,5 @@
 ARCHS = arm64
-TARGET = iphone:clang:15.0:14.0
+TARGET = iphone:clang:515.0:14.0
 INSTALL_TARGET_PROCESSES = Douyin
 
 include $(THEOS)/makefiles/common.mk
