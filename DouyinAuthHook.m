@@ -2,7 +2,7 @@
 #import <Security/Security.h>
 #import <Foundation/Foundation.h>
 
-#define SERVER_URL @"http://dy.slios.cn/api/verify/index.php"
+#define SERVER_URL @"hhttps:dy.slios.cn/api/verify/index.php"
 #define KEYCHAIN_SERVICE @"com.dt.authhook.card"
 
 static UIWindow *g_alertWindow = nil;
