@@ -1,0 +1,11 @@
+Package: com.dt.authhook
+Name: DouyinAuthHook
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 卡密服务器验证 Hook
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate
+
+
